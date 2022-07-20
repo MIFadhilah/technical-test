@@ -11,3 +11,4 @@ Font yang digunakan adalah [Montserrat](https://fonts.google.com/specimen/Montse
 - Tampilkan sebanyak 20 artikel.
 - Tulisan `Menampilkan semua artikel` akan berubah ketika user mengetik kata apapun pada field search setelah menekan tombol Enter, menjadi `Menampilkan pencarian kata kunci “isi_kata_kunci”`.
 - Button Urutkan ketika diklik akan menampilkan component Dropdown persis dibawah button tsb yang berisi value [Terbaru, Terlama, Rekomendasi]. Desain component Dropdown dibebaskan mau seperti apa.
+- Hasil pengerjaan dikumpulkan ke repo terkait di branch terpisah, branch name dibebaskan formatnya.
